@@ -1,0 +1,9 @@
+{
+  "name": "hangul-analyzer",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Structural analysis of Korean Hangul text — decomposition, vowel harmony, rhyme patterns",
+  "scripts": {
+    "test": "node --test *.test.js"
+  }
+}
