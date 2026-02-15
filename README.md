@@ -1,5 +1,7 @@
 # hangul-analyzer
 
+![Tests](https://github.com/Taru0208/hangul-analyzer/actions/workflows/test.yml/badge.svg)
+
 Structural analysis of Korean text. Decompose syllables, detect rhyme patterns, analyze vowel harmony, compare phonetic fingerprints.
 
 Zero dependencies. Uses the mathematical structure of Unicode Hangul encoding.
